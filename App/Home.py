@@ -19,6 +19,12 @@ with tab1:
     sy.space(lines=2)
     st.info(icon= "ℹ️",body="Features are limited since this is a demo !")
 
+with tab3:
+
+    st.text('Feel free to send your request for features you would like to see in the official version of the app'
+           + ' to garadlimahdihassan@gmail.com')
+    
+
 with tab2:
     sy.space(lines=3)
     st.header("Tutorial")
@@ -94,12 +100,7 @@ with tab2:
 
             st.text("Preferred device: Laptop")
         
-            
-with tab3:
 
-    st.text('Feel free to send your request for features you would like to see in the official version of the app'
-           + ' to garadlimahdihassan@gmail.com')
-    
 
 
 
