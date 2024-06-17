@@ -1,4 +1,4 @@
-gtts==2.5.1
+gtts==2.3.2
 mediapipe==0.10.14
 numpy==1.23.5
 opencv_python_headless==4.10.0.82
