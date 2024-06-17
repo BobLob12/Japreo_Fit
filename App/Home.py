@@ -21,8 +21,9 @@ with tab1:
 
 with tab3:
 
-    st.text('Feel free to send your request for features you would like to see in the official version of the app'
-           + ' to garadlimahdihassan@gmail.com')
+    st.text('If you have any request for what features')
+    st.text('like to see in future updates, email us')
+    st.text('at garadlimahdihassan@gmail.com')
     
 
 with tab2:
