@@ -30,19 +30,19 @@ with tab2:
 
         sy.space(lines=2)
         st.subheader("Select a Workout")
-        st.image(image='Tutorial Images\Screenshot (2).png')
+        st.image(image='Tutorial Images/Screenshot (2).png')
 
     with tab2:
         
         sy.space(lines=2)
         st.subheader("Select an Exercise")
-        st.image(image='Tutorial Images\Screenshot (3).png')
+        st.image(image='Tutorial Images/Screenshot (3).png')
 
     with tab3:
 
         sy.space(lines=2)
         st.subheader("Click to Start")
-        st.image(image='Tutorial Images\Screenshot (4).png')
+        st.image(image='Tutorial Images/Screenshot (4).png')
 
     with tab4:
 
@@ -52,7 +52,7 @@ with tab2:
         st.text('You will be given 10 seconds to get into position')
         st.text('before the pop up appears.')
         sy.space()
-        st.image(image='Tutorial Images\Taskbar_Picture-removebg-preview (1).png')
+        st.image(image='Tutorial Images/Taskbar_Picture-removebg-preview (1).png')
 
     with tab5:
 
