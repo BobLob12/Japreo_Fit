@@ -4,7 +4,6 @@ import streamlit_space as sy
 
 
 st.title('Japreo FIT')
-st.header('Japreo FIT')
 st.subheader('BETA Version')
 sy.space(lines=3)
 
