@@ -95,7 +95,10 @@ with tab2:
             st.text("Preferred device: Laptop")
         
             
-    
+with tab3:
+
+    st.text('Feel free to send your request for features you would like to see in the official version of the app'
+           + ' to garadlimahdihassan@gmail.com')
     
 
 
