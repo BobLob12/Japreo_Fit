@@ -21,6 +21,7 @@ with tab1:
 
 with tab3:
 
+    sy.space(lines=3)
     st.text('If you have any request for what features like to see in future updates, email us')
     st.text('at garadlimahdihassan@gmail.com')
     
