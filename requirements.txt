@@ -1,6 +1,6 @@
 gtts==2.5.1
 mediapipe==0.10.14
-numpy==1.25.3
+numpy==1.21.0
 opencv_contrib_python==4.10.0.82
 playsound==1.2.2
 streamlit==1.35.0
