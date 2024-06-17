@@ -4,6 +4,7 @@ import streamlit_space as sy
 
 
 st.title('Japreo FIT')
+st.header('Japreo FIT')
 st.subheader('BETA Version')
 sy.space(lines=3)
 
@@ -23,7 +24,7 @@ with tab2:
     sy.space(lines=3)
     st.header("Tutorial")
     sy.space(lines=2)
-    tab1,tab2,tab3,tab4,tab5 = st.tabs(["Step 1", "Step 2", "Step 3", "Step 4", ""])
+    tab1,tab2,tab3,tab4,tab5 = st.tabs(["Step 1", "Step 2", "Step 3", "Step 4", "Must Read"])
 
 
     with tab1:
