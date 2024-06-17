@@ -1,5 +1,5 @@
 gTTS==2.3.2
-pgi==0.0.11.2
+PyGObject==3.48.2
 mediapipe==0.10.14
 numpy==1.23.5
 opencv_python_headless==4.10.0.82
