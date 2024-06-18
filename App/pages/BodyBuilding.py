@@ -102,7 +102,7 @@ if Workout_Selector == UpperBody:
 
   if Start_Button is clicked and Exercise_Selector == Select_Bicep_Curls :
      
-    Bicep_Curls_Starting_Message()
+    #Bicep_Curls_Starting_Message()
 
     time.sleep(10)
      
@@ -111,7 +111,7 @@ if Workout_Selector == UpperBody:
 
   if Start_Button is clicked and Exercise_Selector == Select_Drag_Curls:
     
-    Drag_Curls_Starting_Message()
+    #Drag_Curls_Starting_Message()
 
     time.sleep(10)
 
@@ -120,7 +120,7 @@ if Workout_Selector == UpperBody:
   
   if Start_Button is clicked and Exercise_Selector == Select_Hammer_Curls:
 
-    Hammer_Curls_Starting_Message()
+    #Hammer_Curls_Starting_Message()
 
     time.sleep(10)
 
@@ -129,7 +129,7 @@ if Workout_Selector == UpperBody:
 
   if Start_Button is clicked and Exercise_Selector == Select_Pushups:
 
-    Pushups_Starting_Message()
+    #Pushups_Starting_Message()
 
     time.sleep(10)
 
@@ -137,7 +137,7 @@ if Workout_Selector == UpperBody:
 
   if Start_Button is clicked and Exercise_Selector == Select_Bench_Press:
 
-    Bench_Press_Starting_Message()
+    #Bench_Press_Starting_Message()
 
     time.sleep(10)
 
@@ -145,7 +145,7 @@ if Workout_Selector == UpperBody:
 
   if Start_Button is clicked and Exercise_Selector == Select_Dumbbell_Chest_Flys:
 
-    Dumbbbell_Chest_Flys_Starting_Message()
+    #Dumbbbell_Chest_Flys_Starting_Message()
 
     time.sleep(10)
 
@@ -153,7 +153,7 @@ if Workout_Selector == UpperBody:
 
   if Start_Button is clicked and Exercise_Selector == Select_Lat_Pulldown:
 
-    Lat_Pulldown_Starting_Message()
+    #Lat_Pulldown_Starting_Message()
 
     time.sleep(10)
 
@@ -162,7 +162,7 @@ if Workout_Selector == UpperBody:
 
   if Start_Button is clicked and Exercise_Selector == Select_Arnorld_Shoulder_Press:
 
-    Arnold_Shoulder_Press_Starting_Message()
+    #Arnold_Shoulder_Press_Starting_Message()
 
     time.sleep(10)
 
@@ -171,7 +171,7 @@ if Workout_Selector == UpperBody:
   
   if Start_Button is clicked and Exercise_Selector == Select_BOBR:
 
-    Bent_Over_BackRows_Starting_Message()
+    #Bent_Over_BackRows_Starting_Message()
 
     time.sleep(10)
 
@@ -180,7 +180,7 @@ if Workout_Selector == UpperBody:
   
   if Start_Button is clicked and Exercise_Selector == Select_Spider_Curls:
 
-    Spider_Curls_Starting_Message()
+    #Spider_Curls_Starting_Message()
 
     time.sleep(10)
 
