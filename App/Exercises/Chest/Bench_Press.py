@@ -2,7 +2,6 @@ import cv2
 import mediapipe as mp
 import numpy as np
 import time
-from playsound import playsound
 from AudioCoach.Messages.Message_Player import Congratulation_Message, Go_Up_Message 
 from Rep_SoundEffects.Play_Rep_Sound import Rep_One, Rep_Two, Rep_Three, Rep_Four, Rep_Five, Rep_Six, Rep_Seven, Rep_Eight, Rep_Nine, Rep_Ten, Rep_Eleven, Rep_Twelve
 
