@@ -1,7 +1,7 @@
 gTTS==2.3.2
 mediapipe==0.10.14
 numpy==1.23.5
-opencv_python_headless==4.10.0.82
+opencv-python==4.10.0.84
 playsound==1.2.2
 streamlit==1.35.0
 streamlit_space==0.1.5
