@@ -30,7 +30,7 @@ with tab2:
 
         sy.space(lines=2)
         st.subheader("Select a Workout")
-        st.image(image='Tutorial Images/Screenshot (2).png')
+        st.image(image='Tutorial Images\Screenshot (2).png')
 
     with tab2:
         
